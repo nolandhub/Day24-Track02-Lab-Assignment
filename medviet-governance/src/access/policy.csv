@@ -20,7 +20,7 @@ p, intern, sandbox_data, write
 # TODO: intern KHÔNG được access production
 
 # Role inheritance
-g, alice, admin
-g, bob, ml_engineer
-g, carol, data_analyst
-g, dave, intern
+g, user_alice, admin
+g, user_bob, ml_engineer
+g, user_carol, data_analyst
+g, user_dave, intern
